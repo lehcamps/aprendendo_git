@@ -1,0 +1,1 @@
+sempre use o git de forma desleixada
