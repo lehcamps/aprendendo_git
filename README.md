@@ -10,3 +10,5 @@ Neste momento o repositório está em construção e estamos atualizando o READM
 
 Vamos aprender a fazer um commit local.
 
+Vendo um commit com mais de um arquivo.
+
