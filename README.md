@@ -12,3 +12,4 @@ Vamos aprender a fazer um commit local.
 
 Vendo um commit com mais de um arquivo.
 
+Alterando um arquivo na nuvem.
